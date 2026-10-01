@@ -1,0 +1,53 @@
+body{
+  padding: 5%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZDwp3MOa0RI11W6mcqhKudL8ZtpR18NftHddNIdOBwN5duuKTYpjJkI&s=10);
+  background-size: 100px;
+  background-repeat: round;
+  backdrop-filter: blur(3px);
+  line-height: 1.5;
+}
+h1{
+	color: deeppink;
+	text-align: center;
+}
+h2{
+    text-align: center;
+    color: deeppink;
+}  
+.everything{
+    padding: 2%;
+    background-color: floralwhite;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+table, th, td{
+margin: auto;
+padding: 10px;
+}
+#aboutme{
+  text-align: center;
+}
+dl{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#homepage{
+  background-color: deeppink;
+  color: floralwhite;
+}
+input[type=submit]{
+  height: 20px;
+  width: 90px;
+}
+input[type=submit]:hover {
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)
+}
+#footer{
+  background-color: deeppink;
+  color: floralwhite;
+}
+a{
+  color: floralwhite;
+}
